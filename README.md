@@ -10,7 +10,7 @@ I used Striple API (free) for testing.
 
 This is a starter template for building a SaaS application using **Next.js** with support for authentication, Stripe integration for payments, and a dashboard for logged-in users.
 
-**Demo: [https://next-saas-starter-swart.vercel.app/](https://next-saas-starter-swart.vercel.app/)**
+**Demo: [https://saas-starter-swart.vercel.app/](https://saas-starter-swart.vercel.app/)**
 
 ## Features
 
