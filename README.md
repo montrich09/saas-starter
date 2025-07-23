@@ -1,3 +1,11 @@
+# Hi, Good Day! Here's montrich.
+
+This project is used to get started and learn about SaaS platform (Next.js + Striple API configuration).
+I also tested it in local and remote online environment.
+Current host URL is https://saas-starter-swart.vercel.app/ (free).
+Repository configuration: Vercel Supabase (free).
+I used Striple API (free) for testing.
+
 # Next.js SaaS Starter
 
 This is a starter template for building a SaaS application using **Next.js** with support for authentication, Stripe integration for payments, and a dashboard for logged-in users.
